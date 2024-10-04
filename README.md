@@ -22,15 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)**
 - **[IA - Luri](https://www.alura.com.br/luri-inteligencia-artificial)**
 - **[IA - ChatGPT](https://chatgpt.com/)**
-- **[Figma](https://www.figma.com/)**
 - **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
-- **[Via Cep API](https://viacep.com.br/)**
-
-<br>
-
-## 🎨 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1412824641884998254). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- **[ViaCep API](https://viacep.com.br/)**
 
 <br>
 
